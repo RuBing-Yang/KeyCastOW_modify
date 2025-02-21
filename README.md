@@ -2,10 +2,6 @@
 
 **Forked from [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW)**
 
-Not a native English speaker, sorry for my grammar and spelling mistakes!
-
-> What did I change？
-
 A simple change:
 
 Not create new message while keep mouse wheel scrolling
